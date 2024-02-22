@@ -1,4 +1,4 @@
-package ejerciciogit;
+package paquete;
 
 public class EjercicioGIT 
 {
